@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 openai = OpenAI(
-    api_key='<Ebter your API key here>',
+    api_key='<Enter your API key here>',
 )
 
 conversation = []
